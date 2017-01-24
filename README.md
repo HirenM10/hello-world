@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-This is my first commit on github
+That was incorrect. So removing it
